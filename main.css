@@ -1,0 +1,36 @@
+body{
+	height: 100%;
+}
+
+.box{
+	/*padding-top: 100px;
+	padding-bottom: 100px;*/
+}
+
+.box1{
+	background: #D30067;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	/*font-size: 42px;*/
+}
+
+.box2{
+	background: #04819E;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	/*font-size: 42px;*/
+}
+
+.box3{
+	background: #FFDB00;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	/*font-size: 42px;*/
+}
+
+.box1, .box2, .box3{
+	font-size: 66px;
+	font-weight: 700;
+	color: #fff !important;
+	font-family: 'Source Sans Pro', sans-serif;
+}
